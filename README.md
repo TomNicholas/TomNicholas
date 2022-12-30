@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a physicist and software engineer. On GitHub you'll find me contributing to open source projects like [Xarray](https://github.com/pydata/xarray) and [Pangeo](https://github.com/pangeo-data).
+
+I currently work as a Research Software Engineer and Oceanographer at Lamont-Doherty Earth Observatory, part of Columbia University.
+
+Previously I completed a PhD in computational plasma physics for nuclear fusion, where I first got interested in the challenges of processing large amounts of scientific data.
+
+I'm looking for my next opportunity! If you know of something you think might interest me, please email me at thomas dot nicholas at columbia dot edu.
