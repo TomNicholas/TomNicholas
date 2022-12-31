@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 I'm a physicist and software engineer. On GitHub you'll find me contributing to open source projects like [Xarray](https://github.com/pydata/xarray) and [Pangeo](https://github.com/pangeo-data).
 
-I currently work as a Research Software Engineer and Oceanographer at Lamont-Doherty Earth Observatory, part of Columbia University.
+I currently work as a Research Software Engineer and Oceanographer at Columbia University. I work with Ryan Abernathey as part of the [Climate Data Science Lab](https://ocean-transport.github.io/cds_lab.html), and as part of Lamont-Doherty Earth Observatory.
 
 Previously I completed a PhD in computational plasma physics for nuclear fusion, where I first got interested in the challenges of processing large amounts of scientific data.
 
-I'm looking for my next opportunity! If you know of something you think might interest me, please email me at thomas dot nicholas at columbia dot edu.
+I'm interested in climate change as a physical problem and as a societal challenge, and in accelerating scientists' everyday work through better software tools.
+
+:bangbang: _**I'm currently looking for my next opportunity!**_ :bangbang: If you know of anything you think might interest me, please email me at thomas dot nicholas at columbia dot edu.
