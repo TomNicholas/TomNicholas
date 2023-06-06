@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-I'm a physicist and software engineer. On GitHub you'll find me contributing to open source projects like [Xarray](https://github.com/pydata/xarray) and [Pangeo](https://github.com/pangeo-data).
+I'm a physicist and software engineer. I contribute to open source projects like [Xarray](https://github.com/pydata/xarray) (as a core developer) and various other projects within the [Pangeo](https://github.com/pangeo-data) sphere.
 
 I currently work as a Research Software Engineer and Oceanographer at Columbia University. I work with Ryan Abernathey as part of the [Climate Data Science Lab](https://ocean-transport.github.io/cds_lab.html), and as part of Lamont-Doherty Earth Observatory.
 
