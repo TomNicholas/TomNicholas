@@ -33,5 +33,3 @@ I currently work as a Research Software Engineer and Oceanographer at Columbia U
 Previously I completed a PhD in computational plasma physics for nuclear fusion, where I first got interested in the challenges of processing large amounts of scientific data.
 
 I'm interested in climate change as a physical problem and as a societal challenge, and in accelerating scientists' everyday work through better software tools.
-
-:bangbang: _**I'm currently looking for my next opportunity!**_ :bangbang: If you know of anything you think might interest me, please email me at thomas dot nicholas at columbia dot edu.
