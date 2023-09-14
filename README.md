@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 I'm a physicist and software engineer. I contribute to open source projects like [Xarray](https://github.com/pydata/xarray) (as a core developer) and various other projects within the [Pangeo](https://github.com/pangeo-data) sphere.
 
-Currently I work at [[C]Worthy](https://cworthy.org/), a non-profit [focused research organisation]() building tools to verify that ocean-based carbon dioxide removal approaches would be effective and safe.
+Currently I work at [[C]Worthy](https://cworthy.org/), a non-profit [focused research organisation](https://www.nature.com/articles/d41586-022-00018-5) building tools to verify that ocean-based carbon dioxide removal approaches would be effective and safe.
 
 Previously I worked as a Research Software Engineer and Oceanographer at Columbia University. I worked with Ryan Abernathey as part of the [Climate Data Science Lab](https://ocean-transport.github.io/cds_lab.html), and as part of Lamont-Doherty Earth Observatory.
 
