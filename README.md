@@ -28,8 +28,10 @@ Here are some ideas to get you started:
 
 I'm a physicist and software engineer. I contribute to open source projects like [Xarray](https://github.com/pydata/xarray) (as a core developer) and various other projects within the [Pangeo](https://github.com/pangeo-data) sphere.
 
-I currently work as a Research Software Engineer and Oceanographer at Columbia University. I work with Ryan Abernathey as part of the [Climate Data Science Lab](https://ocean-transport.github.io/cds_lab.html), and as part of Lamont-Doherty Earth Observatory.
+Currently I work at [[C]Worthy](https://cworthy.org/), a non-profit [focused research organisation]() building tools to verify that ocean-based carbon dioxide removal approaches would be effective and safe.
 
-Previously I completed a PhD in computational plasma physics for nuclear fusion, where I first got interested in the challenges of processing large amounts of scientific data.
+Previously I worked as a Research Software Engineer and Oceanographer at Columbia University. I worked with Ryan Abernathey as part of the [Climate Data Science Lab](https://ocean-transport.github.io/cds_lab.html), and as part of Lamont-Doherty Earth Observatory.
+
+Before that I completed a PhD in computational plasma physics for nuclear fusion, where I first got interested in the challenges of processing large amounts of scientific data.
 
 I'm interested in climate change as a physical problem and as a societal challenge, and in accelerating scientists' everyday work through better software tools.
