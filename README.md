@@ -35,3 +35,5 @@ Previously I worked as a Research Software Engineer and Oceanographer at Columbi
 Before that I completed a PhD in computational plasma physics for nuclear fusion, where I first got interested in the challenges of processing large amounts of scientific data.
 
 I'm interested in climate change as a physical problem and as a societal challenge, and in accelerating scientists' everyday work through better software tools.
+
+You can reach me at tom at cworthy dot org
