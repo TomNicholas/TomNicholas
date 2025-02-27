@@ -38,4 +38,4 @@ Before that I completed a PhD in computational plasma physics for nuclear fusion
 
 I'm interested in climate change as a physical problem and as a societal challenge, and in accelerating scientists' everyday work through better software tools.
 
-You can reach me at tom at cworthy dot org
+You can reach me at tom at earthmover dot io
