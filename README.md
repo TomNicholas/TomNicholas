@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 [![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0002-2176-0530&color=green&style=flat-square&logo=orcid)](https://orcid.org/0000-0002-2176-0530)
 [![Google Scholar](https://img.shields.io/static/v1?label=&message=Google%20Scholar&color=gray&style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=sRqgW3gAAAAJ)
 [![Twitter](https://img.shields.io/twitter/follow/TEGNicholasCode?logo=twitter&style=flat-square)](https://twitter.com/TEGNicholasCode)
-[![Speaker Deck](https://img.shields.io/badge/Speaker%20Deck-009287.svg?style=for-the-badge&logo=Speaker-Deck&logoColor=white)](https://speakerdeck.com/tomnicholas)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=flat-square&logo=Bluesky&logoColor=white)](https://bsky.app/profile/tegnicholas.bsky.social)
+[![Speaker Deck](https://img.shields.io/badge/Speaker%20Deck-009287.svg?style=flat-square&logo=Speaker-Deck&logoColor=white)](https://speakerdeck.com/tomnicholas)
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tom-nicholas/)
 
 ### Hi there 👋
