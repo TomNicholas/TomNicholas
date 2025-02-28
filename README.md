@@ -34,7 +34,14 @@ Previously I worked at [[C]Worthy](https://cworthy.org/), a non-profit [focused 
 
 Before that I worked as a Research Software Engineer and Oceanographer at Columbia University. I worked with Ryan Abernathey as part of the [Climate Data Science Lab](https://ocean-transport.github.io/cds_lab.html), and as part of Lamont-Doherty Earth Observatory.
 
-Before that I completed a PhD in computational plasma physics for nuclear fusion, where I first got interested in the challenges of processing large amounts of scientific data.
+Before that I completed a PhD in computational plasma physics for nuclear fusion, where I first got interested in the challenges of processing and sharing large amounts of scientific data.
+
+Some projects I'm particularly proud of / excited about and my role in them:
+- Xarray (core maintainer)
+- Xarray-DataTree (original author, now folded into xarray upstream)
+- VirtualiZarr (original author and lead developer)
+- Cubed (cheerleader and author of the Cubed-Xarray integration)
+- FROST (originator)
 
 I'm interested in climate change as a physical problem and as a societal challenge, and in accelerating scientists' everyday work through better software tools.
 
