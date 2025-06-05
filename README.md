@@ -31,18 +31,18 @@ I'm a physicist turned scientific software engineer. I contribute to open source
 
 I currently work at [Earthmover](https://earthmover.io/), a Public Benefit Corporation building "GitHub for data" on top of the open source Pangeo stack.
 
-Previously I worked at [[C]Worthy](https://cworthy.org/), a non-profit [focused research organisation](https://www.nature.com/articles/d41586-022-00018-5) building tools to verify that ocean-based carbon dioxide removal approaches would be effective and safe.
+Previously I worked at [[C]Worthy](https://cworthy.org/), a non-profit [focused research organisation](https://www.nature.com/articles/d41586-022-00018-5) building [tools](https://github.com/CWorthy-ocean/C-Star) to verify that [ocean-based carbon dioxide removal](https://carbonplan.org/research/oae-efficiency) approaches would be effective and safe.
 
 Before that I worked as a Research Software Engineer and Oceanographer at Columbia University. I worked with Ryan Abernathey as part of the [Climate Data Science Lab](https://ocean-transport.github.io/cds_lab.html), and as part of Lamont-Doherty Earth Observatory.
 
 Before that I completed a PhD in computational plasma physics for nuclear fusion, where I first got interested in the challenges of processing and sharing large amounts of scientific data.
 
 Some projects I'm particularly proud of / excited about and my role in them:
-- Xarray (core maintainer)
-- Xarray-DataTree (original author, now folded into xarray upstream)
-- VirtualiZarr (original author and lead developer)
-- Cubed (cheerleader and author of the Cubed-Xarray integration)
-- FROST (originator)
+- [Xarray](https://github.com/pydata/xarray) (core maintainer)
+- [Xarray-DataTree](https://github.com/xarray-contrib/datatree) (original author, now folded into xarray [upstream](https://docs.xarray.dev/en/stable/user-guide/hierarchical-data.html))
+- [VirtualiZarr](https://github.com/zarr-developers/VirtualiZarr) (original author and lead developer)
+- [Cubed](https://github.com/cubed-dev/cubed) (cheerleader and author of the [Cubed-Xarray](https://github.com/cubed-dev/cubed-xarray) integration)
+- [FROST](https://github.com/TomNicholas/FROST) (originator)
 
 I'm interested in climate change as a physical problem and as a societal challenge, and in accelerating scientists' everyday work through better software tools.
 
